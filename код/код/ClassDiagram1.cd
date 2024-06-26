@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Program">
+    <Position X="11.25" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourNamespace.Person">
+    <Position X="14.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourNamespace.MainForm">
+    <Position X="5.5" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAKIIgAXSgYFCgCwCIEAASgUQQgEAA0AQ4QBAAAAM=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourNamespace.CrimeRecordComparer">
+    <Position X="5.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>CrimeRecordComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="1.222" />
+  </Class>
+  <Class Name="YourNamespace.CrimeRecordArchive">
+    <Position X="8.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAYAYAQAAACAEAA=</HashCode>
+      <FileName>CrimeRecordArchive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourNamespace.CrimeRecord">
+    <Position X="11.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ADADAAAABkgAAAYKBAAAAIQBAAAAAEAAAAAIAAQgCwA=</HashCode>
+      <FileName>CrimeRecord.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="YourNamespace.ArchiveForm">
+    <Position X="8.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAACAAAGAAAACAAIAAAAAAAAAAAABIAA=</HashCode>
+      <FileName>ArchiveForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YourNamespace.GangMember">
+    <Position X="14.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAAAAAAAAAAAAAAAAAkAAAAIQAAAACAA=</HashCode>
+      <FileName>GangMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="YourNamespace.ICriminal">
+    <Position X="5.5" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICriminal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
